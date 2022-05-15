@@ -35,9 +35,10 @@
     height: 600px;
     grid-template-columns:100px 100px 100px;
 }
+```
+![](./img/1.jpg)
 
-![](./img/2.jpeg)
-
+```css
 // 定义一个带有网格线名称的布局
 .container{
     display:grid;
