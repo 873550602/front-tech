@@ -122,5 +122,7 @@ setFormDesignConfig({
 ## nodeSchema的所有属性配置
 
 ```javascript
-
+{
+    
+}
 ```

@@ -51,9 +51,9 @@
     "no-console": "error", // 禁止使用 console
     "no-debugger": "error",// 禁止使用 debugger
     "no-unused-vars": "warn", // 禁止未使用的变量
+    "indent": ["error", 2], // 强制缩进为 2 个空格
     "quotes": ["error", "single"], // 强制使用单引号或双引号
     "semi": ["error", "always"], // 强制使用分号
-    "indent": ["error", 2], // 强制缩进为 2 个空格
     "prefer-arrow-callback": "error", // 使用 ES6 的箭头函数
     "no-eval": "error", // 禁止使用 eval() 函数
     "no-var": "error", // 禁止使用 var 声明变量：

@@ -39,3 +39,4 @@ mac和windows的辅助键对比 [command]->[ctrl],[option]->[alt]
 - **Prettier - Code formatter** 使vscode支持prettier的插件
 - **Markdownlint** markdown格式化工具
 - **open in browser** 提供通过右键菜单选择在浏览器中打开当前文件
+- **TypeScript Vue Plugin (Volar)** vueTypeScript支持
